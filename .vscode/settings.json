@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "bcr.C": "cpp"
+    },
+    "cmake.configureOnOpen": false
+}
